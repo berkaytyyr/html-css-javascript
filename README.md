@@ -67,7 +67,7 @@ Bu proje, Berkay Tayyar'ın kişisel portfolyosu olarak tasarlanmış modern ve 
 
 ### 2. Hayatım Bölümü
 - Kişisel hikaye ve deneyimler
-- İş geçmişi (kafe, garsonluk, motokuryelik)
+- İş geçmişi
 - Eğitim süreci ve hedefler
 - Yazılım geliştirme tutkusu
 
